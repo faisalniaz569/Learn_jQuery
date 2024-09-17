@@ -1,0 +1,9 @@
+jQuery has the following fade methods:
+
+1. fadeIn(),
+
+2. fadeOut(),
+
+3. fadeToggle(),
+
+4. fadeTo()

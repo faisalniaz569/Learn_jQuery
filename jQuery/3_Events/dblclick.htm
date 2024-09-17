@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Example two</title>
+
+    <!-- jQuery files -->
+    <script src="jquery/jquery.js"></script>
+    <script>
+        
+        // Double click
+        $(document).ready(function() {
+            $("p#myBtn").dblclick(function() {
+                $(this).hide();
+            });
+        });
+
+    </script>
+</head>
+
+<body>
+
+    <p id="myBtn">If you click on me, I will disappear.</p>
+    <p id="myBtn">Click me away!</p>
+    <p id="myBtn">Click me too!</p>
+
+</body>
+
+</html>

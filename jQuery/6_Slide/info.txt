@@ -1,0 +1,7 @@
+jQuery has the following slide methods:
+
+1. slideDown(),
+
+2. slideUp(),
+
+3. slideToggle()

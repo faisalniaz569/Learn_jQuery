@@ -1,0 +1,24 @@
+What is event?
+
+=> একটি ওয়েব পেজ যে সমস্ত ভিন্ন ভিজিটরদের ক্রিয়ায় সাড়া দিতে পারে তাকে ইভেন্ট বলে।
+
+=> All the different visitors' actions that a web page can respond to are called events.
+
+Examples:
+
+. moving a mouse over an element
+. selecting a radio button
+. clicking on an element
+
+
+Here are some common DOM events:
+
+Mouse Events	Keyboard Events	       Form Events	        Document/Window Events
+
+click	        keypress	           submit	            load
+
+dblclick	    keydown	               change	            resize
+
+mouseenter	    keyup	               focus	            scroll
+
+mouseleave	 	                       blur	                unload
